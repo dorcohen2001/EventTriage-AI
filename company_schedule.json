@@ -1,0 +1,200 @@
+{
+  "company_name": "חברת הפקות אירועים - EventTriage",
+  "booked_events": [
+    {
+      "date": "2026-09-18",
+      "event_type": "Corporate",
+      "title": "כנס שנתי לחברת הייטק",
+      "guest_count": 250,
+      "price": 85000,
+      "booked_at": "2026-08-10"
+    },
+    {
+      "date": "2026-09-25",
+      "event_type": "Private",
+      "title": "חתונה בטבע",
+      "guest_count": 180,
+      "price": 95000,
+      "booked_at": "2026-08-15"
+    },
+    {
+      "date": "2026-10-02",
+      "event_type": "Boutique",
+      "title": "מסיבת קוקטייל פרטית",
+      "guest_count": 40,
+      "price": 18000,
+      "booked_at": "2026-08-20"
+    },
+    {
+      "date": "2027-02-10",
+      "event_type": "Private",
+      "title": "אירוע Private - Dor Cohen",
+      "guest_count": 200,
+      "price": 0.0,
+      "notes": "",
+      "booked_at": "2026-09-05 15:36:12"
+    },
+    {
+      "date": "תאריך בתיאום",
+      "event_type": "Private",
+      "title": "אירוע Private - Dor Cohen",
+      "guest_count": 200,
+      "price": 0.0,
+      "notes": "",
+      "booked_at": "2026-09-05 18:07:34"
+    },
+    {
+      "date": "01/02/2028",
+      "event_type": "Corporate",
+      "title": "אירוע Corporate - Dor Cohen",
+      "guest_count": 100,
+      "price": 0.0,
+      "notes": "",
+      "booked_at": "2026-09-05 19:56:48"
+    },
+    {
+      "date": "25/02/2029",
+      "event_type": "Private",
+      "title": "אירוע Private - Dor Cohen",
+      "guest_count": 200,
+      "price": 0.0,
+      "notes": "",
+      "booked_at": "2026-09-08 19:07:49"
+    },
+    {
+      "date": "2026-12-25",
+      "event_type": "Corporate",
+      "title": "אירוע חברה סוף שנה - בדיקה",
+      "guest_count": 150,
+      "price": 85000,
+      "notes": "",
+      "booked_at": "2026-10-08 18:56:42"
+    },
+    {
+      "date": "2026-12-25",
+      "event_type": "Corporate",
+      "title": "אירוע חברה סוף שנה - בדיקה",
+      "guest_count": 150,
+      "price": 85000,
+      "notes": "",
+      "booked_at": "2026-10-08 19:08:30"
+    },
+    {
+      "date": "2026-12-25",
+      "event_type": "Corporate",
+      "title": "אירוע חברה סוף שנה - בדיקה",
+      "guest_count": 150,
+      "price": 85000,
+      "notes": "",
+      "booked_at": "2026-10-08 19:17:46"
+    },
+    {
+      "date": "2026-12-25",
+      "event_type": "Corporate",
+      "title": "אירוע חברה סוף שנה - בדיקה",
+      "guest_count": 150,
+      "price": 85000,
+      "notes": "",
+      "booked_at": "2026-10-08 19:24:36"
+    },
+    {
+      "date": "מרץ 2029",
+      "event_type": "Private",
+      "title": "אירוע Private - Dor Cohen",
+      "guest_count": 100,
+      "price": 0.0,
+      "notes": "",
+      "booked_at": "2026-10-08 20:50:21"
+    },
+    {
+      "date": "2026-12-25",
+      "event_type": "Corporate",
+      "title": "אירוע חברה סוף שנה - בדיקה",
+      "guest_count": 150,
+      "price": 85000,
+      "notes": "",
+      "booked_at": "2026-10-08 22:08:28"
+    },
+    {
+      "date": "2026-12-25",
+      "event_type": "Corporate",
+      "title": "אירוע חברה סוף שנה - בדיקה",
+      "guest_count": 150,
+      "price": 85000,
+      "notes": "",
+      "booked_at": "2026-10-10 10:23:23"
+    },
+    {
+      "date": "2026-12-25",
+      "event_type": "Corporate",
+      "title": "אירוע חברה סוף שנה - בדיקה",
+      "guest_count": 150,
+      "price": 85000,
+      "notes": "",
+      "booked_at": "2026-10-10 12:03:40"
+    },
+    {
+      "date": "2026-12-25",
+      "event_type": "Corporate",
+      "title": "אירוע חברה סוף שנה - בדיקה",
+      "guest_count": 150,
+      "price": 85000,
+      "notes": "",
+      "booked_at": "2026-10-10 12:07:09"
+    },
+    {
+      "date": "2026-12-25",
+      "event_type": "Corporate",
+      "title": "אירוע חברה סוף שנה - בדיקה",
+      "guest_count": 150,
+      "price": 85000,
+      "notes": "",
+      "booked_at": "2026-10-14 17:11:37"
+    },
+    {
+      "date": "דצמבר 2027",
+      "event_type": "Private",
+      "title": "אירוע Private - Dor Cohen",
+      "guest_count": 200,
+      "price": 0.0,
+      "notes": "",
+      "booked_at": "2026-10-14 17:59:43"
+    },
+    {
+      "date": "דצמבר 2029",
+      "event_type": "Private",
+      "title": "אירוע Private - Dor Cohen",
+      "guest_count": 200,
+      "price": 0.0,
+      "notes": "",
+      "booked_at": "2026-10-15 16:49:25"
+    },
+    {
+      "date": "2029-12-19",
+      "event_type": "Private",
+      "title": "אירוע Private - Dor Cohen",
+      "guest_count": 200,
+      "price": 100000.0,
+      "notes": "",
+      "booked_at": "2026-10-15 16:57:12"
+    },
+    {
+      "date": "2026-12-25",
+      "event_type": "Corporate",
+      "title": "אירוע חברה סוף שנה - בדיקה",
+      "guest_count": 150,
+      "price": 85000,
+      "notes": "",
+      "booked_at": "2026-10-18 21:38:57"
+    },
+    {
+      "date": "2026-12-25",
+      "event_type": "Corporate",
+      "title": "אירוע חברה סוף שנה - בדיקה",
+      "guest_count": 150,
+      "price": 85000,
+      "notes": "",
+      "booked_at": "2026-10-18 21:52:13"
+    }
+  ]
+}
